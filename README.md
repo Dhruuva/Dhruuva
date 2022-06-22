@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruuva
 - 👀 I’m interested in creating amasing web 
 - 🌱 I’m currently learning and always learning in making web development more easy and fast
-- 💞️ I’m looking to collaborate on Vue projects for buisness.
+- 💞️ I’m looking to collaborate on Vue projects for business.
 - 📫 todhruva@mail.ru 
 
 <!---
